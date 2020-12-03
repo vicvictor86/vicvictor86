@@ -1,4 +1,9 @@
-Hello friend!,
+Oi visitante, meu nome é Victor Emmanuel, curso ciência da computação, sou um desenvolvedor Python, Java, C#
+estou focado em aprofundar mais meus conhecimentos e futuramente se especializar em desenvolvimento de jogos.
+
+Atualmente estudando: Python, Unity
+
+Pretendo aprender: JavaScript, Django, modelagem 3D
 
 <!--
 **vicvictor86/vicvictor86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
