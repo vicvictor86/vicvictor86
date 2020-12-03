@@ -1,4 +1,4 @@
-<img src="profile-first-pr.svg" min-width="400px" max-width="450px" width="450px" align="right" alt="Traveling">
+<img src="profile-first-pr.svg" min-width="400px" max-width="450px" width="450px" align="right" align="center" alt="Traveling">
 
 <p align="left">
 Oi visitante, meu nome é Victor Emmanuel, curso ciência da computação, sou um desenvolvedor Python, Java, C#
