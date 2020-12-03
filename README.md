@@ -5,7 +5,7 @@ Atualmente estudando: Python, Unity
 
 Pretendo aprender: JavaScript, Django, modelagem 3D
 
-<img src="https://github.githubassets.com/images/modules/profile/profile-first-pr.svg">
+<img src="profile-first-pr.svg">
 
 <!--
 **vicvictor86/vicvictor86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
