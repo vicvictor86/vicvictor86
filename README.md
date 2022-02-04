@@ -6,7 +6,7 @@ estou focado em aprofundar mais meus conhecimentos e melhorar minhas skills em d
 </p>
 
 <p align="left">
-🧠Conhecimentos em: Python, Django, Java, MySQL, PostgreSQL
+🧠Conhecimentos em: Python, Django, MySQL, PostgreSQL
 </p>
 
 <p align="left">
