@@ -1,16 +1,16 @@
 <img src="computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Traveling">
 
 <p align="left">
-Oi visitante, meu nome é Victor Emmanuel, curso ciência da computação, sou um desenvolvedor Python, Java e JavaScript
-estou focado em aprofundar mais meus conhecimentos e melhorar minhas skills em desenvolvimento web.
+Oi visitante, meu nome é Victor Emmanuel, curso ciência da computação, sou um desenvolvedor back end utilizando as linguagens Python, JavaScript e TypeScript,
+estou focado em aprofundar meus conhecimentos e melhorar minhas skills em desenvolvimento web.
 </p>
 
 <p align="left">
-🧠Conhecimentos em: Python, Django, MySQL, PostgreSQL
+🧠Conhecimentos em: Python, Django, PostgreSQL, TypeScript, NodeJS
 </p>
 
 <p align="left">
-🔎Atualmente estudando: JavaScript, NodeJS
+🔎Atualmente estudando: TypeScript, NodeJS
 </p>
 
 <p align="left">
