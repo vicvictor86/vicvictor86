@@ -10,11 +10,11 @@ estou focado em aprofundar meus conhecimentos e melhorar minhas skills em desenv
 </p>
 
 <p align="left">
-🔎Atualmente estudando: TypeScript, NodeJS
+🔎Atualmente estudando: ReactJS
 </p>
 
 <p align="left">
-💡Pretendo aprender: React Native, ReactJS
+💡Pretendo aprender: React Native 
 </p>
 
 
