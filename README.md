@@ -6,7 +6,7 @@ estou focado em aprofundar meus conhecimentos e melhorar minhas skills em desenv
 </p>
 
 <p align="left">
-🧠Conhecimentos em: Python, Django, PostgreSQL, TypeScript, NodeJS
+🧠Conhecimentos em: NodeJS, TypeScript, Express, Nest, Django, PostgreSQL, Prisma
 </p>
 
 <p align="left">
